@@ -1,7 +1,7 @@
 D3.js Data Visualization Project 1
 ===
 
-In this project, I will use [D3](http://d3js.org/) to create interactive and visual rankings of countries. First, I will build an interactive HTML data table to visualize, order, aggregate, and filter countries by name, population, or GDP, for one or multiple years. Ir result will look like this.
+In this project, I will use [D3](http://d3js.org/) to create interactive and visual rankings of countries. First, I will build an interactive HTML data table to visualize, order, aggregate, and filter countries by name, population, or GDP, for one or multiple years. The result will look like this.
  
 <p align="center">
 	<img src="img/table_html.png" width="500"/>
